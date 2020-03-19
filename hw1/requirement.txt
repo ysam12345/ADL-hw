@@ -1,0 +1,13 @@
+torch==1.4
+tensorflow==2.1
+rouge-score==0.0.3
+spacy==2.2.4
+nltk==3.4.5
+fasttext==0.9.1
+numpy==1.18.2
+tqdm==4.43.0
+pandas==1.0.2
+gensim==3.8.1
+glove==1.0.2
+Cython==0.29.15
+word2vec==0.10.2
